@@ -18,10 +18,10 @@ const Nav = () => {
                         <Link href="/about">About</Link>
                     </li>
                     <li>
-                        Blog
+                       <Link href="/blog">Blog</Link>
                     </li>
                     <li>
-                        Contact
+                        <Link href="/profile">Contact</Link>
                     </li>
                 </ul>
             </div>
